@@ -6,7 +6,7 @@ body {
     text-align: center;
     color: rgb(195, 195, 195);
     text-shadow: 1px 1px 3px rgb(0, 0, 0); 
-    
+    max-height: 100vh;
 
 }
 
